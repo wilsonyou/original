@@ -13,6 +13,7 @@ Contents:
    
    ctp
    test
+   combined
    
 
 Indices and tables
