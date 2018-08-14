@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 2
    
    ctp
-   
+   test
    
 
 Indices and tables
